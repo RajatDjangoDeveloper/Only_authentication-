@@ -321,5 +321,5 @@ Devise.setup do |config|
     ]
     jwt.expiration_time = 30.minutes.to_i
   end
-
 end
+
